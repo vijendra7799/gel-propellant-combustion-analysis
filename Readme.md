@@ -121,7 +121,9 @@ The analysis confirmed a near-linear regression during the quasi-steady combusti
 
 The complete experimental report is available here:
 
-📄 **[ME221 Experiment Report](Report/Report%20ME%20221.pdf)**
+📥 **Download Full Experimental Report**
+
+https://github.com/vijendra7799/gel-propellant-combustion-analysis/raw/main/Report/Report%20ME%20221.pdf
 
 ---
 
