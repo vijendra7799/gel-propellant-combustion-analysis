@@ -16,9 +16,8 @@ The experiment was carried out as part of **ME221** at **Indian Institute of Tec
 
 ## Z-Type Schlieren System
 
-<a href="images/schlieren_setup.png">
-<img src="images/schlieren_setup.png" width="900">
-</a>
+<img width="777" height="407" alt="Screenshot 2026-06-29 165610" src="https://github.com/user-attachments/assets/7464ec2f-1a3e-414a-9dcc-3494355040d9" />
+
 
 *Click the image to view in full resolution.*
 
@@ -26,9 +25,6 @@ The experiment was carried out as part of **ME221** at **Indian Institute of Tec
 
 ## High-Speed Imaging System
 
-<a href="images/phantom_camera.png">
-<img src="images/phantom_camera.png" width="700">
-</a>
 
 The combustion process was recorded using a **Phantom VEO 6410 High-Speed Camera**, enabling visualization of transient combustion phenomena at high frame rates.
 
@@ -85,9 +81,8 @@ The gel exhibits non-Newtonian behavior and undergoes multiple combustion stages
 
 # 📷 Combustion Stages
 
-<a href="images/combustion_stages.png">
-<img src="images/combustion_stages.png" width="900">
-</a>
+<img width="517" height="592" alt="Screenshot 2026-06-29 165931" src="https://github.com/user-attachments/assets/5c7fa034-9801-4184-b482-fbbcf6b51309" />
+
 
 The combustion process was divided into four distinct stages:
 
@@ -100,9 +95,8 @@ The combustion process was divided into four distinct stages:
 
 # 📊 Image Processing
 
-<a href="images/drop_contour.png">
-<img src="images/drop_contour.png" width="700">
-</a>
+<img width="611" height="208" alt="Screenshot 2026-06-29 170020" src="https://github.com/user-attachments/assets/5abf6a64-e683-4bdb-a946-10e391120a55" />
+
 
 Image processing techniques were used to:
 
@@ -115,9 +109,7 @@ Image processing techniques were used to:
 
 # 📈 D²-Law Analysis
 
-<a href="images/d2_analysis.png">
-<img src="images/d2_analysis.png" width="850">
-</a>
+<img width="802" height="495" alt="Screenshot 2026-06-29 170114" src="https://github.com/user-attachments/assets/3c0b38c8-b771-475b-9ebf-9bbd8ae2135a" />
 
 The squared droplet diameter was plotted against time to determine the burning rate constant.
 
